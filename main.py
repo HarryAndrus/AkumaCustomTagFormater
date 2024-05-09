@@ -16,7 +16,7 @@ def color(word: str) -> str:
             new_word += color1 + char
 
     return new_word
-`
+
 
 def main() -> int:
     word = str((input("What is the Phrase? ")))
